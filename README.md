@@ -1,10 +1,10 @@
 # NFL_Data_Clustering
- Indentifying NFL team archetypes using kNN clustering
+ Indentifying NFL team archetypes using kMeans clustering
 
 ## Project Description:
- This is a kNN cluster anlaysis of NFL seasonal team data that attempts to identify distinct team
+ This is a kMeans cluster anlaysis of NFL seasonal team data that attempts to identify distinct team
  archetypes and evaluate how these archetypes may relate to a team's success measured by regular
- season wins. The notebook includes some data exploration, data preparation, kNN clustering, 
+ season wins. The notebook includes some data exploration, data preparation, kMeans clustering, 
  cluster evaluation of results, and conclusions.
  
 ## Python Libraries:
